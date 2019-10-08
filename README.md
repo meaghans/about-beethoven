@@ -1,4 +1,4 @@
-# The :tea: Tea :tea: on Classical Music
+# The :tea: on Classical Music
  
 This static webpage was built using basic HTML and CSS. It features classical music history, resources, and information on various classical pieces and composers. There is a provided accessible link to view the webpage.
 
